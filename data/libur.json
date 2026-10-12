@@ -1,0 +1,275 @@
+{
+ "sumber": {
+  "2026": "SKB No. 1497/2/5 Tahun 2025",
+  "2027": "SKB No. 1205/3/2 Tahun 2026"
+ },
+ "tahun": {
+  "2026": {
+   "libur": [
+    [
+     1,
+     1,
+     "Tahun Baru 2026 Masehi"
+    ],
+    [
+     1,
+     16,
+     "Isra Mikraj Nabi Muhammad SAW"
+    ],
+    [
+     2,
+     17,
+     "Tahun Baru Imlek 2577 Kongzili"
+    ],
+    [
+     3,
+     19,
+     "Hari Suci Nyepi (Tahun Baru Saka 1948)"
+    ],
+    [
+     3,
+     21,
+     "Idul Fitri 1447 H"
+    ],
+    [
+     3,
+     22,
+     "Idul Fitri 1447 H"
+    ],
+    [
+     4,
+     3,
+     "Wafat Yesus Kristus"
+    ],
+    [
+     4,
+     5,
+     "Kebangkitan Yesus Kristus (Paskah)"
+    ],
+    [
+     5,
+     1,
+     "Hari Buruh Internasional"
+    ],
+    [
+     5,
+     14,
+     "Kenaikan Yesus Kristus"
+    ],
+    [
+     5,
+     27,
+     "Idul Adha 1447 H"
+    ],
+    [
+     5,
+     31,
+     "Hari Raya Waisak 2570 BE"
+    ],
+    [
+     6,
+     1,
+     "Hari Lahir Pancasila"
+    ],
+    [
+     6,
+     16,
+     "1 Muharam Tahun Baru Islam 1448 H"
+    ],
+    [
+     8,
+     17,
+     "Proklamasi Kemerdekaan"
+    ],
+    [
+     8,
+     25,
+     "Maulid Nabi Muhammad SAW"
+    ],
+    [
+     12,
+     25,
+     "Kelahiran Yesus Kristus"
+    ]
+   ],
+   "cuti": [
+    [
+     2,
+     16,
+     "Tahun Baru Imlek 2577 Kongzili"
+    ],
+    [
+     3,
+     18,
+     "Hari Suci Nyepi (Tahun Baru Saka 1948)"
+    ],
+    [
+     3,
+     20,
+     "Idul Fitri 1447 H"
+    ],
+    [
+     3,
+     23,
+     "Idul Fitri 1447 H"
+    ],
+    [
+     3,
+     24,
+     "Idul Fitri 1447 H"
+    ],
+    [
+     5,
+     15,
+     "Kenaikan Yesus Kristus"
+    ],
+    [
+     5,
+     28,
+     "Idul Adha 1447 H"
+    ],
+    [
+     12,
+     24,
+     "Kelahiran Yesus Kristus"
+    ]
+   ]
+  },
+  "2027": {
+   "libur": [
+    [
+     1,
+     1,
+     "Tahun Baru 2027 Masehi"
+    ],
+    [
+     1,
+     5,
+     "Isra Mikraj Nabi Muhammad SAW"
+    ],
+    [
+     2,
+     6,
+     "Tahun Baru Imlek 2578 Kongzili"
+    ],
+    [
+     3,
+     8,
+     "Hari Suci Nyepi (Tahun Baru Saka 1949)"
+    ],
+    [
+     3,
+     10,
+     "Idul Fitri 1448 H"
+    ],
+    [
+     3,
+     11,
+     "Idul Fitri 1448 H"
+    ],
+    [
+     3,
+     26,
+     "Wafat Yesus Kristus"
+    ],
+    [
+     3,
+     28,
+     "Kebangkitan Yesus Kristus (Paskah)"
+    ],
+    [
+     5,
+     1,
+     "Hari Buruh Internasional"
+    ],
+    [
+     5,
+     6,
+     "Kenaikan Yesus Kristus"
+    ],
+    [
+     5,
+     17,
+     "Idul Adha 1448 H"
+    ],
+    [
+     5,
+     20,
+     "Hari Raya Waisak 2571 BE"
+    ],
+    [
+     6,
+     1,
+     "Hari Lahir Pancasila"
+    ],
+    [
+     6,
+     6,
+     "1 Muharam Tahun Baru Islam 1449 H"
+    ],
+    [
+     8,
+     15,
+     "Maulid Nabi Muhammad SAW"
+    ],
+    [
+     8,
+     17,
+     "Proklamasi Kemerdekaan"
+    ],
+    [
+     12,
+     25,
+     "Kelahiran Yesus Kristus"
+    ],
+    [
+     12,
+     26,
+     "Isra Mikraj Nabi Muhammad SAW"
+    ]
+   ],
+   "cuti": [
+    [
+     2,
+     5,
+     "Tahun Baru Imlek 2578 Kongzili"
+    ],
+    [
+     3,
+     9,
+     "Idul Fitri 1448 H"
+    ],
+    [
+     3,
+     12,
+     "Idul Fitri 1448 H"
+    ],
+    [
+     3,
+     15,
+     "Idul Fitri 1448 H"
+    ],
+    [
+     3,
+     25,
+     "Wafat Yesus Kristus"
+    ],
+    [
+     5,
+     18,
+     "Idul Adha 1448 H"
+    ],
+    [
+     5,
+     19,
+     "Hari Raya Waisak 2571 BE"
+    ],
+    [
+     12,
+     24,
+     "Kelahiran Yesus Kristus"
+    ]
+   ]
+  }
+ }
+}
